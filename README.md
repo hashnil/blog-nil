@@ -32,7 +32,7 @@
     $ rails simpleblog:install 
 
 
- ### Start the application
+ ### Start the application:
  
     $ rails s
 
