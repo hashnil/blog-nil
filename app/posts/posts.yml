@@ -1,12 +1,18 @@
 posts:
   1:
-    title: My first post using SimpleBlog
-    date: 2022-04-21
-    description: Description of my post
-    tags: sample, programming, tips, template
+    title: Hash
+    date: 2022-12-06
+    description: What is a Hash?
+    tags: hash, programming, code, blog
   2:
+    title: Nil
+    date: 2022-12-06
+    description: What is a Nil?
+    tags: nil, programming, code, blog
+
+  3:
     title: Not published post
-    date: 2022-04-21
+    date: 2022-12-06
     description: Description of my post
     tags: sample, programming, tips, template
     in_progress: true
