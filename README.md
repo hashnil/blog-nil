@@ -1,24 +1,45 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ ## Simple blog with Ruby on Rails
+ 
 
-Things you may want to cover:
+[![blognil.png](https://i.postimg.cc/8cTxNCRY/blognil.png)](https://postimg.cc/VrHKFmH9)
+ 
+ 
+ ### Install:
+ 
+      Ruby version: 2.7.4
+      Rails version: 7.0.4
+ 
 
-* Ruby version
+ ### Start project:
 
-* System dependencies
+ 
+    $ rails new blog -O -M
+    $ cd blog.
+ 
 
-* Configuration
+ ### Add gem and sass:
 
-* Database creation
+ 
+    $ bundle add sass-rails
+    $ bundle add simpleblog
 
-* Database initialization
 
-* How to run the test suite
+ ### Install template:
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+    $ rails simpleblog:install 
 
-* ...
+
+ ### Start the application
+ 
+    $ rails s
+
+ 
+ Now customize!  
+ 
+ 
+ 
+ 
+ 
